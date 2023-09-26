@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MahdiGhandali
+- 👋 Hi, I’m MahdiGhandali
 - 👀 I’m interested in python
 - 🌱 I’m currently learning  new technologies about my interests
 - 💞️ I’m looking to collaborate on what you can do
